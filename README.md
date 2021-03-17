@@ -8,7 +8,7 @@ Paper: https://arxiv.org/pdf/2012.08125
 
 ## Requirements
 Experiments can be run on a single GPU or Google Cloud TPU v3-8. 
-Requires python > 3.5. To install dependencies:
+Requires python >= 3.5. To install dependencies:
 ```angular2
 pip install -r requirements.txt
 ```
