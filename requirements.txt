@@ -1,0 +1,14 @@
+absl-py
+tensorflow==2.2.0
+tensorflow-addons
+tensorflow_io==0.14.0
+retrying
+matplotlib
+Pillow
+tensorflow-probability==0.9.0
+tensorflow-datasets==3.0.0
+google-cloud-storage
+google-cloud-logging
+cloud-tpu-client
+tensorflow-gan
+scikit-learn
